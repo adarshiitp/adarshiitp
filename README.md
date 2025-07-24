@@ -2,7 +2,8 @@
 <h3 align="center">BS in CS (Data Analytics) @ IIT Patna | Python & Web Dev Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Data+Science+Learner;Machine Learning;Open+Source+Contributor&center=true&width=500&height=30" />
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Data+Science+Learner;Backend+Developer+(Flask);Open+Source+Contributor&center=true&width=500&height=30" />
+
 </p>
 
 ---
