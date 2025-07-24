@@ -25,8 +25,8 @@
 ## 🛠️ Tech Stack:
 
 ```python
-Languages   : Python, SQL, HTML, CSS, JavaScript
+Languages   : Python, SQL, HTML
 Libraries   : Pandas, NumPy, Matplotlib, Seaborn
-Frameworks  : Flask, Bootstrap
-Database    : SQLite, MongoDB
+Frameworks  : Flask
+Database    : SQLite 
 Tools       : VS Code, Git, GitHub, Render, Power BI
