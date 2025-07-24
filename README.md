@@ -13,8 +13,7 @@
 - 📊 Learning: **Python, Pandas, SQL, Power BI** for Data Analytics
 - 💻 Projects:
   - 🔹 Medicine Donor Web App (Flask + SQLite)
-  - 🔹 Face Recognition Attendance System
-  - 🔹 AI Chatter Bot using Gemini API
+  - 🔹 AI Chatter Bot using OpenRouter API
 - 🌱 Currently exploring: `Machine Learning`, `DSA in Python`, `Flask + MongoDB`
 - 🎯 Goal: Internship-ready in Data Analytics & Web Dev | Problem Solver Mindset
 - 🧠 Also learning: Git & GitHub, OOPs, APIs, and Deployment on Render/Railway
