@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kushwaha</h1>
-<h3 align="center">BS in CS (Data Analytics) @ IIT Patna | Python & Web Dev Enthusiast</h3>
+<h3 align="center">BS in CS (Data Analytics) @ IIT Patna | Python & Data Enthusiast</h3>
 
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Data+Science+Learner;Backend+Developer+(Flask);Open+Source+Contributor&center=true&width=500&height=30" />
@@ -15,7 +15,7 @@
 - 💻 Projects:
   - 🔹 Medicine Donor Web App (Flask + SQLite)
   - 🔹 AI Chatter Bot using OpenRouter API
-- 🌱 Currently exploring: `Machine Learning`, `DSA in Python`, `Flask + MongoDB`
+- 🌱 Currently exploring: `Machine Learning`, `DSA in Python`, `Flask + SQLite`
 - 🎯 Goal: Internship-ready in Data Analytics & Web Dev | Problem Solver Mindset
 - 🧠 Also learning: Git & GitHub, OOPs, APIs, and Deployment on Render/Railway
 - ⚡ Fun Fact: I enjoy debugging even more than writing code 😄
