@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kushwaha</h1>
-<h3 align="center">BS in CS (Data Analytics) @ IIT Patna | Python & Data Enthusiast</h3>
+<h3 align="center">Data Analytics Student at IIT Patna | Python & Data Enthusiast</h3>
 
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Data+Science+Learner;Backend+Developer+(Flask);Open+Source+Contributor&center=true&width=500&height=30" />
