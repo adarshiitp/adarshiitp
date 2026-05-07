@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me:
 
-- 🎓 2nd-year BS in Computer Science (Data Analytics) student @ **IIT Patna**
+- 🎓 BS in Computer Science (Data Analytics) student @ **IIT Patna**
 - 📊 Learning: **Python, Pandas, SQL, Power BI** for Data Analytics
 - 💻 Projects:
   - 🔹 Medicine Donor Web App (Flask + SQLite)
