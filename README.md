@@ -18,7 +18,6 @@
 - 🌱 Currently exploring: `Machine Learning`, `DSA in Python`, `Flask + SQLite`
 - 🎯 Goal: Internship-ready in Data Analytics & Web Dev | Problem Solver Mindset
 - 🧠 Also learning: Git & GitHub, OOPs, APIs, and Deployment on Render/Railway
-- ⚡ Fun Fact: I enjoy debugging even more than writing code 😄
 
 ---
 
