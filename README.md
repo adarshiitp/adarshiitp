@@ -2,7 +2,7 @@
 <h3 align="center">Data Analytics Student at IIT Patna | Python & Data Enthusiast</h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Data+Science+Learner;Backend+Developer+(Flask);Open+Source+Contributor&center=true&width=500&height=30" />
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Data+Scientist;Backend+Developer+(Flask);AI/ML+Engineer;Open+Source+Contributor&center=true&width=500&height=30" />
 
 </p>
 
