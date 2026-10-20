@@ -10,7 +10,7 @@
 
 <br />
 
-<a href="https://github.com/adarshhiitp">
+<a href="https://github.com/adarshiitp">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/adarshiitp/">
@@ -91,7 +91,7 @@ A Python-based Streamlit application for cleaning, exploring, and visualizing da
 
 <div align="left">
 
-<a href="https://github.com/adarshhiitp/DataInsight-Analyzer">
+<a href="https://github.com/adarshiitp/DataInsight-Analyzer">
   <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
 </a>
 <a href="https://datainsight-analyzer.streamlit.app/">
