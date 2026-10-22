@@ -2,7 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=999999&color=58A6FF&center=true&vCenter=true&width=700&height=65&lines=I'm+Adarsh+Kushwaha&repeat=false" alt="I'm Adarsh Kushwaha" />
+
+<h1 align="center">
+  <span style="color: #58A6FF;">I'm Adarsh Kushwaha</span>
+</h1>
+
 
 <h2>BS in Computer Science (Data Analytics) · IIT Patna</h2>
 
