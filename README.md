@@ -4,9 +4,11 @@
 
 
 
+
 <p align="center">
-  <img src="./intro.svg" alt="I'm Adarsh Kushwaha" />
+  <img src="https://placehold.co/700x65/0d1117/58A6FF?text=I'm+Adarsh+Kushwaha&font=roboto" alt="I'm Adarsh Kushwaha" />
 </p>
+
 
 
 
