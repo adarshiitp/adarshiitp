@@ -5,13 +5,7 @@
 
 
 <p align="center">
-  <svg width="700" height="65" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="50%" dominant-baseline="middle"
-          text-anchor="middle" fill="#58A6FF"
-          font-family="monospace" font-size="36" font-weight="600">
-      I'm Adarsh Kushwaha
-    </text>
-  </svg>
+  <img src="./intro.svg" alt="I'm Adarsh Kushwaha" />
 </p>
 
 
