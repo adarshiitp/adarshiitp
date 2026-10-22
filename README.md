@@ -3,9 +3,17 @@
 <div align="center">
 
 
-<h1 align="center">
-  <span style="color: #58A6FF;">I'm Adarsh Kushwaha</span>
-</h1>
+
+<p align="center">
+  <svg width="700" height="65" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" dominant-baseline="middle"
+          text-anchor="middle" fill="#58A6FF"
+          font-family="monospace" font-size="36" font-weight="600">
+      I'm Adarsh Kushwaha
+    </text>
+  </svg>
+</p>
+
 
 
 <h2>BS in Computer Science (Data Analytics) · IIT Patna</h2>
